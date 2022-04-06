@@ -48,7 +48,7 @@ class SecondFragment : Fragment() {
 
         var randomNumber = 0
         if (count > 0) {
-            randomNumber = Random.nextInt(count)
+            randomNumber = Random.nextInt(count+1)
         }
         view.findViewById<TextView>(R.id.textview_random).text = randomNumber.toString()
     }

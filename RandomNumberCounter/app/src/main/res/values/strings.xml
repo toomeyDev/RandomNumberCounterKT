@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Random Counter</string>
+    <string name="second_fragment_label">Random Counter</string>
+    <string name="random_button_plus_text">Random+</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">0</string>
+    <string name="random_heading">Here is a random number between 0 and %d.</string>
+    <string name="msg_button_text">Message</string>
+    <string name="button_random_text">Random</string>
+    <string name="count_button_text">Count</string>
+</resources>
